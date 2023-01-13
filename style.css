@@ -1,0 +1,14 @@
+.maincls{
+    background-color: hotpink;
+   
+}
+
+.amjdiv{
+    bottom: 0;
+    position:fixed;
+    text-shadow: 9px 9px 9px;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+
